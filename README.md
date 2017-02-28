@@ -1,1 +1,2 @@
-node-solr-connect-promise
+# node-solr-connect-promise
+Solr connection client for NodeJS using promises

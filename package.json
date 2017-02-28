@@ -1,0 +1,22 @@
+{
+  "name": "node-solr-connect-promise",
+  "version": "0.1.0",
+  "description": "Solr connection client for NodeJS using promises",
+  "main": "solrConnectPromise.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cshook/node-solr-connect-promise.git"
+  },
+  "keywords": [
+    "SOLR"
+  ],
+  "author": "Craig Shook",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cshook/node-solr-connect-promise/issues"
+  },
+  "homepage": "https://github.com/cshook/node-solr-connect-promise#readme"
+}
